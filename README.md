@@ -1,7 +1,7 @@
 # Vivado-Flasher-Icon
 Adding a bitstream flasher icon to Xilinx Vivado 2022.2
 
-![Vivado with flasher icon](vivado_flash.png)
+![Vivado with flasher icon](vivado_flasher.png)
 
 
 
