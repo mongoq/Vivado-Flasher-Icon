@@ -10,7 +10,7 @@ The added icon will look like this:
 To install:
 
 * Put the *flash_bitstream.tcl* script and the icon *flash.png* in a folder like */home/user/vivado_scripts*.
-* Set a new custom command via *Tools / Custom Commands / Customize Commands* like this and specify the .tcl script and the icon.
+* Set a new custom command via *Tools / Custom Commands / Customize Commands* and specify the .tcl script and the icon.
 
 ![Customize Commands](customize_commands.png)
 
