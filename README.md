@@ -14,5 +14,8 @@ To install:
 
 ![Customize Commands](customize_commands.png)
 
-The flasher icon was taken from [Flaticon](https://www.flaticon.com/free-icon/flash_252590).
-Please mind the copyright.
+Usage:
+
+* Flashing is only possible when the bitstream was already compiled.
+
+The flasher icon was taken from [Flaticon](https://www.flaticon.com/free-icon/flash_252590). Please mind the copyright. 
