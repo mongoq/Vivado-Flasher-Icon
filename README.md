@@ -2,7 +2,7 @@
 
 Adding a bitstream flasher icon to Xilinx Vivado 2022.2
 
-The added icon will look like this - a flash:
+The added icon will look like this - a flash - in the menu bar:
 
 
 ![Vivado with flasher icon](vivado_flasher.png)
