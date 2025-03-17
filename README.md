@@ -17,6 +17,6 @@ To install:
 Usage:
 
 * Flashing is only possible when the bitstream was already compiled.
-* Specify a keyboard shortcut if you like.
+* Specify a keyboard shortcut if you like at the *Customize Commands* window.
 
 The flasher icon was taken from [Flaticon](https://www.flaticon.com/free-icon/flash_252590). Please mind the copyright. 
