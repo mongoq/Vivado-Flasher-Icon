@@ -2,11 +2,12 @@
 
 Adding a bitstream flasher icon to Xilinx Vivado 2022.2
 
-It will look like this:
+The added icon will look like this:
 
 ![Vivado with flasher icon](vivado_flasher.png)
 
 To install:
+
 * Put the *flash_bitstream.tcl* script and the icon *flash.png* in a folder like */home/user/vivado_scripts*.
 * Set a new custom command via *Tools / Custom Commands / Customize Commands* like this and specify the .tcl script and the icon.
 
